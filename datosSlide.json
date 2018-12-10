@@ -1,0 +1,42 @@
+{"top": "20%", "right": "", "width": "40%", "left": "10%"}
+
+{"texto": "Lorem Ipsum", "color": "#333"}
+
+
+vistas/img/slide/default/back_default.jpg
+slideOpcion2
+vistas/img/slide/slide2/curso.png
+{"top":"5%", "left": "15%" , "width": "25%", "right": ""}
+{"top":"15%", "left": "" , "width": "40%", "right": "15%"}
+{"texto": "Lorem Ipsum", "color": "#333"}
+{"texto": "Lorem ipsum dolor sit", "color": "#777"}
+{"texto": "Lorem ipsum dolor sit", "color": "#888"}
+<button class="btn btn-default backColor text-uppercase">
+
+							VER PRODUCTO <span class="fa fa-chevron-right"></span>
+
+							</button>
+							#
+
+
+vistas/img/slide/slide3/fondo2.jpg
+slideOpcion3
+vistas/img/slide/slide3/iphone.png
+{"top":"5%", "left": "15%" , "width": "25%", "right": ""}
+{"top":"15%", "left": "" , "width": "40%", "right": "15%"}
+{"texto": "Lorem Ipsum", "color": "#333"}
+{"texto": "Lorem ipsum dolor sit", "color": "#777"}
+{"texto": "Lorem ipsum dolor sit", "color": "#888"}
+<button class="btn btn-default backColor text-uppercase">
+
+							VER PRODUCTO <span class="fa fa-chevron-right"></span>
+
+							</button>
+							#
+
+vistas/img/slide/slide4/fondo3.jpg
+slideOpcion4
+{"top":"20%", "left": "10%" , "width": "40%", "right": "right"}
+{"texto": "Lorem Ipsum", "color": "#333"}
+{"texto": "Lorem ipsum dolor sit", "color": "#777"}
+{"texto": "Lorem ipsum dolor sit", "color": "#888"}

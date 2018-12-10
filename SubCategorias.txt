@@ -1,0 +1,5 @@
+id AU
+subcategoria
+id_categoria
+ruta
+fecha

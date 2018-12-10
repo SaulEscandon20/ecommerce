@@ -1,0 +1,12 @@
+id
+imgFondo
+tipoSlide
+imgProducto
+estiloImgProducto
+estiloTextoSlide
+titulo1
+titulo2
+titulo3
+botonVerProducto
+url
+fecha
